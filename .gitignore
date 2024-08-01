@@ -30,3 +30,5 @@ ansible/updater
 .idea
 
 .DS_Store
+
+.gradle/**
